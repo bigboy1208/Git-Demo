@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac9999d-aa2c-460c-8ec4-33074b6ad8e3" name="Default Changelist" comment="项目自身配置正式提交">
+    <list default="true" id="8ac9999d-aa2c-460c-8ec4-33074b6ad8e3" name="Default Changelist" comment="分支修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623574910637</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="分支修改">
+      <created>1623581935588</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623581935588</updated>
+    </task>
+    <task id="LOCAL-00011" summary="分支修改">
+      <created>1623581956040</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623581956040</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,17 +199,18 @@
     <MESSAGE value="项目自身配置同时提交" />
     <MESSAGE value="项目自身配置同时提交第一次测试" />
     <MESSAGE value="项目自身配置正式提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目自身配置正式提交" />
+    <MESSAGE value="分支修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="708" y="221" key="RollbackChangesDialog" timestamp="1623573980595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="708" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623573980595" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623574913044">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623581958494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623574913044" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623581958494" />
     <state x="334" y="180" key="new project wizard" timestamp="1623569580114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
