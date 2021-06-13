@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623569490404</updated>
-      <workItem from="1623569491575" duration="2517000" />
+      <workItem from="1623569491575" duration="2739000" />
     </task>
     <task id="LOCAL-00001" summary="尝试第一次更改">
       <created>1623569769831</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623573643162</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="项目自身配置同时提交">
+      <created>1623573997417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623573997417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,10 +155,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="项目自身配置同时提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623573646445">
+    <state x="708" y="221" key="RollbackChangesDialog" timestamp="1623573980595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623573646445" />
+    <state x="708" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623573980595" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623574000305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623574000305" />
     <state x="334" y="180" key="new project wizard" timestamp="1623569580114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
